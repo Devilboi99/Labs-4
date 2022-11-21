@@ -49,7 +49,7 @@
 - научить работать с OR
 ![alt text](https://github.com/Devilboi99/Labs-4/blob/master/изображение_2022-11-21_150251987.png)
 - научить работь его с and (Ему потербовалась в среднем больше попыток, чтоб понять как работает and)
-![alt text](![image](https://user-images.githubusercontent.com/96059564/203023327-62f77011-6acb-419d-a208-d00293c09c4b.png))
+![alt text](https://github.com/Devilboi99/Labs-4/blob/master/изображение_2022-11-21_150908044.png)
 
 ## Выводы
 понял как подсоеденить к unity rider, как можно вывести данные через unity, и как пользоваться jupyter
