@@ -47,11 +47,8 @@
 - скачать скрипт
 - установить его на любой объект
 - научить работать с OR
-- Написать простейший код, который выводит hello world в python and unity.
 ![alt text](https://github.com/Devilboi99/Labs-4/blob/master/изображение_2022-11-21_150251987.png)
-```css
-    Console.Log("hello world");
-```
+- научить работь его с and
 ![alt text](https://github.com/Devilboi99/-LabFirst/blob/823a56cc44ea46cb9bfa86517c04b4539b0bcbfb/PythonWorld.jpg)
 
 ## Выводы
