@@ -48,8 +48,8 @@
 - установить его на любой объект
 - научить работать с OR
 ![alt text](https://github.com/Devilboi99/Labs-4/blob/master/изображение_2022-11-21_150251987.png)
-- научить работь его с and
-![alt text](https://github.com/Devilboi99/-LabFirst/blob/823a56cc44ea46cb9bfa86517c04b4539b0bcbfb/PythonWorld.jpg)
+- научить работь его с and (Ему потербовалась в среднем больше попыток, чтоб понять как работает and)
+![alt text](![image](https://user-images.githubusercontent.com/96059564/203023327-62f77011-6acb-419d-a208-d00293c09c4b.png))
 
 ## Выводы
 понял как подсоеденить к unity rider, как можно вывести данные через unity, и как пользоваться jupyter
